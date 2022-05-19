@@ -1,0 +1,6 @@
+framework module Pods_rtc_phone {
+  umbrella header "Pods-rtc_phone-umbrella.h"
+
+  export *
+  module * { export * }
+}

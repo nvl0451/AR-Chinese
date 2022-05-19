@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FocusEntity",
+        "repositoryURL": "https://github.com/maxxfrazer/FocusEntity",
+        "state": {
+          "branch": "main",
+          "revision": "d17dbbddd92d9b1661a42868fc51b86a3ad2fcb0",
+          "version": null
+        }
+      },
+      {
+        "package": "TextEntity",
+        "repositoryURL": "https://github.com/Reality-Dev/RealityKit-Text",
+        "state": {
+          "branch": "main",
+          "revision": "c07f0d51ad7de398c102caf8f627d215841979ae",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

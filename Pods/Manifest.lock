@@ -1,0 +1,16 @@
+PODS:
+  - HanziPinyin (1.0.0)
+
+DEPENDENCIES:
+  - HanziPinyin
+
+SPEC REPOS:
+  trunk:
+    - HanziPinyin
+
+SPEC CHECKSUMS:
+  HanziPinyin: 786d8e35fbf1483d3881bf65514242cf6b9b7b6e
+
+PODFILE CHECKSUM: e350051bd76244b477088e41c660dd8b45a7b444
+
+COCOAPODS: 1.11.3
